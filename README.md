@@ -13,24 +13,40 @@ News Mag adalah website yang menyediakan berita dari berbagai negara. News Mag b
 Pertama kamu harus punya npm/pnpm ya, baru jalankan kode di bawah ini di terminal kamu
 
 1. Clone repository
-   `git clone https://github.com/faridrawing/news-mag.git`
+   ```
+   git clone https://github.com/faridrawing/news-mag.git
+   ```
 2. Buka direktori repository
-   `cd news-mag`
+   ```
+   cd news-mag
+   ```
 3. Instal package(s) yang dibutuhkan
    NPM:
-   `npm install`
+   ```
+   npm install
+   ```
    PNPM:
-   `pnpm install`
+   ```
+   pnpm install
+   ```
 4. Jalankan aplikasi dalam mode development
    NPM:
-   `npm run dev`
+   ```
+   npm run dev
+   ```
    PNPM:
-   `pnpm run dev`
+   ```
+   pnpm run dev
+   ```
 5. Build aplikasi (opsional)
    NPM:
-   `npm run build`
+   ```
+   npm run build
+   ```
    PNPM:
-   `pnpm run build`
+   ```
+   pnpm run build
+   ```
 
 ## Dokumentasi
 
