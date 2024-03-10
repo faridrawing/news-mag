@@ -21,29 +21,29 @@ Pertama kamu harus punya npm/pnpm ya, baru jalankan kode di bawah ini di termina
    cd news-mag
    ```
 3. Instal package(s) yang dibutuhkan
-   NPM:
+   - NPM:
    ```
    npm install
    ```
-   PNPM:
+   - PNPM:
    ```
    pnpm install
    ```
 4. Jalankan aplikasi dalam mode development
-   NPM:
+   - NPM:
    ```
    npm run dev
    ```
-   PNPM:
+   - PNPM:
    ```
    pnpm run dev
    ```
 5. Build aplikasi (opsional)
-   NPM:
+   - NPM:
    ```
    npm run build
    ```
-   PNPM:
+   -  PNPM:
    ```
    pnpm run build
    ```
